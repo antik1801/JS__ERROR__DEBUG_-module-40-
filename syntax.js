@@ -24,3 +24,4 @@ const musk = {
 console.log(musk);
 
 
+const array = [25,5,65,74 ,4, 65, 45]
